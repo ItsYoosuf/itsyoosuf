@@ -33,6 +33,10 @@
 <br />
 
 ---
+<img align="left" alt="ItsYoosuf's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ItsYoosuf&show_icons=true&hide_border=true" />
+
+---
+
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
 [js]: https://www.w3schools.com/js/
