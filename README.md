@@ -33,7 +33,7 @@
 <br />
 
 ---
-<img align="left" alt="ItsYoosuf's GitHub Stats" src="https://github-readme-stats.ItsYoosuf.vercel.app/api?username=ItsYoosuf&show_icons=true&hide_border=true" />
+[![Yoosuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsYoosuf)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
