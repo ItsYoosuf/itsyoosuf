@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Work on My Website and contribute more.
+- 🥅 2024 Goals: Work on My Website and contribute more.
 - ⚡ Fun fact: I love to play guitar / drums
 
 ### Connect with me:
